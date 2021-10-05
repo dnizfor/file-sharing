@@ -41,5 +41,3 @@ $ cd server
 $ nodemon start
 
 ````
-
-
